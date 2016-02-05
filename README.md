@@ -1,2 +1,0 @@
-# picmaker
-assignment 1
