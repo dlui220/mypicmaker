@@ -11,7 +11,6 @@ def createImage(xres,yres):
         r -= 1 * switch
         g += 1 * switch
         b += 1 * switch
-
         if (g == 255):
             switch = switch * -1
         if (switch == -1 and g == 0):
